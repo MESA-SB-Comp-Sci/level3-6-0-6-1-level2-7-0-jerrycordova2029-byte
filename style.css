@@ -4,4 +4,28 @@
     margin: 0;
 }
 
-/* write all your rules below */
+/* write all your rules below*/
+h1{
+    background-color: pink;
+    border: 2vw solid red;
+    margin: 5vw;
+}
+.box{
+    background-color: aqua;
+    width: 100vw;
+    height: 20vh;
+}
+#box-2{
+    background-color: yellow;
+    border: 2vw solid rgb(251, 145, 162);
+    margin: 5vw;
+}
+.blue{
+    color: blue;
+}
+.purple{
+    color: purple;
+}
+.green{
+    color: green;
+}
